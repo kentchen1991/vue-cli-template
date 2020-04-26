@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "description": "vue项目模板",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "dev":"webpack-dev-server --open --mode development"
+  },
   "keywords": [
     "vue项目模板"
   ],
